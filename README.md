@@ -15,7 +15,7 @@ based on return/risk reward. Based on these graphs and info it would be best to 
 Based on Plot box showing the cumulative returns, showing Tiger Golbal capital & Paulson & co being very volatile, as 
 the Berkshire Hathaway being the least volatile. 
 
-#Anaylze the Risk
+# Anaylze the Risk
 based on the std Berkshire Hathaway & Paulson & Co. inc  shows over the annual period to be a risky option over sp500, The funds have 
 correlation with the sp500 regarding price movement. As Berkshire hathway over time is the risker of the portfolio options compared to s&p500.
 
